@@ -122,7 +122,7 @@ by its terms. See [CODE\_OF\_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 To execute all tests, run:
 
-    $./setup.py test
+    $ ./setup.py test
 
 in the current directory.
 
